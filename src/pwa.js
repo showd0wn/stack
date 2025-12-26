@@ -4,7 +4,7 @@
 
 if (import.meta.env.PROD && "serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("/stack/sw.js").catch((err) => {
+    navigator.serviceWorker.register("./sw.js").catch((err) => {
       console.error("ServiceWorker registration failed: ", err);
     });
   });
