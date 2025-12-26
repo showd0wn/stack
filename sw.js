@@ -1,6 +1,6 @@
 const CACHE_NAME = "stack-game-v1";
 const CACHE_LIST = [
-  "/stack",
+  "/stack/",
   "/stack/index.html",
   "/stack/manifest.webmanifest",
   "/stack/favicon.ico",
@@ -10,9 +10,6 @@ const CACHE_LIST = [
   "/stack/sounds/game_start.wav",
   "/stack/sounds/stack_combo.wav",
   "/stack/sounds/stack_cut.wav",
-  "/stack/assets/index-_qJPK4jS.js",
-  "/stack/assets/index-BjTqnXqL.css",
-  "/stack/assets/three-D2kn3piK.js",
 ];
 
 // Install 阶段：全量缓存
