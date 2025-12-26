@@ -1,5 +1,5 @@
 import "./style.css";
-// import "./pwa.js";
+import "./pwa.js";
 import "./components/GameUI.js";
 import WebGL from "three/examples/jsm/capabilities/WebGL.js";
 import Sky from "./background.js";
