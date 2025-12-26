@@ -1,6 +1,6 @@
 const CACHE_NAME = "stack-game-v1";
 const CACHE_LIST = [
-  "/stack",
+  "/stack/",
   "/stack/index.html",
   "/stack/manifest.webmanifest",
   "/stack/favicon.ico",
