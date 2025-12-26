@@ -10,6 +10,9 @@ const CACHE_LIST = [
   "./sounds/game_start.wav",
   "./sounds/stack_combo.wav",
   "./sounds/stack_cut.wav",
+  "./assets/index-BjTqnXqL.css",
+  "./assets/index-DcapqSC4.js",
+  "./assets/three-D2kn3piK.js",
 ];
 
 // Install 阶段：全量缓存
