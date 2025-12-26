@@ -1,8 +1,9 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/stack/",
   server: {
-    host: true
+    host: true,
   },
   build: {
     rollupOptions: {
